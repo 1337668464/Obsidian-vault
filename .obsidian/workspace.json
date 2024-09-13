@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f85aa6555058b4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ed113dcaf26d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a50fc81e2405680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "核心思维突破/成长，主动，边界.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "756f173a7c2e360f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af3f1f6b6a32d9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a815d9dcb429bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "入门",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90b07eae1863ad73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f535b9f2601a0d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "0fa70b9436843834",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38631e00907168c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5676bceecdab44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "核心思维突破/成长，主动，边界.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "347519ca1cc65e0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "核心思维突破/成长，主动，边界.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d77249de5c7669ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e974296be9100744",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "核心思维突破/成长，主动，边界.md"
+              }
+            }
+          },
+          {
+            "id": "b4f7244513598e86",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-day-planner:Week plan": false
+    }
+  },
+  "active": "8a50fc81e2405680",
+  "lastOpenFiles": [
+    "核心思维突破/财富核心理念.md",
+    "前哨站！！！！/大学生钱.md",
+    "垫底辣妹的顺序.md",
+    "未命名.md",
+    "2023-11-12.md",
+    "繁荣手册/少评价多感受.md",
+    "繁荣手册/为什么现在处于经济下行，而且互联网红利中后期.md",
+    "繁荣手册/解决看不见大多数人的回应.md",
+    "繁荣手册/困倦.md",
+    "繁荣手册/军训.md",
+    "繁荣手册/核心目标确定.md",
+    "繁荣手册/关于购买力的事情.md",
+    "繁荣手册/做事原则.md",
+    "繁荣手册/自我驱动-表演驱动.md",
+    "繁荣手册/我做过的那些傻逼事情.md",
+    "繁荣手册/2023-11-07 关于输出服装价值上.md",
+    "繁荣手册/2023116关于看美妆护肤品的购买启示.md",
+    "繁荣手册/额外增益.md",
+    "觉醒-极左极右/不懈怠应该是年轻人基础的自我要求.md",
+    "核心思维突破/时间的合理利用和方法论.md",
+    "核心思维突破/个人价值.md",
+    "核心思维突破/成长，主动，边界.md",
+    "个体崛起/DAY 3.md",
+    "个体崛起/DAY 2.md",
+    "个体崛起/个体崛起思维导图.md",
+    "个体崛起/DAY 1.md",
+    "个体崛起/个体崛起如何循序渐进的撑起自己的野心 陈立飞.pdf",
+    "markdown",
+    "前哨站！！！！",
+    "0ea29c32e11d7e1deecb0f72e3ddfbd.png",
+    "繁荣手册",
+    "觉醒-极左极右",
+    "读书笔记",
+    "计划政策",
+    "Pasted image 20231013223337.png",
+    "珠海大创",
+    "Pasted image 20231013223357.png",
+    "Pasted image 20231013223352.png",
+    "单身女人",
+    "模板",
+    "Weixin Image_20231008220436.png",
+    "Weixin Image_20231008220427.png",
+    "Pasted image 20231005141608.png",
+    "未命名.canvas"
+  ]
+}
